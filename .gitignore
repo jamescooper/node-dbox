@@ -8,3 +8,5 @@ tmp
 *.swp
 *.*~
 .c9revisions
+.idea
+.idea/
